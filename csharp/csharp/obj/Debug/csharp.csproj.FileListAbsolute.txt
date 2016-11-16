@@ -1,0 +1,12 @@
+D:\Visual studio\SeleniumTraining\csharp\csharp\bin\Debug\csharp.dll
+D:\Visual studio\SeleniumTraining\csharp\csharp\bin\Debug\csharp.pdb
+D:\Visual studio\SeleniumTraining\csharp\csharp\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Visual studio\SeleniumTraining\csharp\csharp\bin\Debug\nunit.framework.dll
+D:\Visual studio\SeleniumTraining\csharp\csharp\bin\Debug\WebDriver.dll
+D:\Visual studio\SeleniumTraining\csharp\csharp\bin\Debug\WebDriver.Support.dll
+D:\Visual studio\SeleniumTraining\csharp\csharp\bin\Debug\nunit.framework.xml
+D:\Visual studio\SeleniumTraining\csharp\csharp\bin\Debug\WebDriver.xml
+D:\Visual studio\SeleniumTraining\csharp\csharp\bin\Debug\WebDriver.Support.xml
+D:\Visual studio\SeleniumTraining\csharp\csharp\obj\Debug\csharp.csprojResolveAssemblyReference.cache
+D:\Visual studio\SeleniumTraining\csharp\csharp\obj\Debug\csharp.dll
+D:\Visual studio\SeleniumTraining\csharp\csharp\obj\Debug\csharp.pdb

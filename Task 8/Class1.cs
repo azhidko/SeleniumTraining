@@ -9,6 +9,7 @@ using OpenQA.Selenium.IE;
 using System.Collections.Generic;
 using System.Linq;
 
+
 namespace csharp
 {
     [TestClass]
@@ -40,7 +41,19 @@ namespace csharp
 
             for (int i = 0; i <= linkCount - 1; i++)
             {
-                wait.Until(ExpectedConditions.ElementExists(By.CssSelector("a.link[title] div[class*=sticker]")));
+
+               
+                    List<IWebElement> Ducks = driver.FindElements(By.CssSelector("a.link[title]")).ToList();
+                    int stickers = Ducks[i].FindElements(By.CssSelector("div[class*=sticker]")).Count;
+                if (stickers > 1) {
+                    throw new Exception("Element is not unique ");
+                } 
+             
+ 
+         
+
+
+
 
             }
         
